@@ -6,7 +6,7 @@ redistributed, or implemented without prior written permission.
 
 > **Audience:** people writing Poesis Scripting Language (PSL) behaviors and modules.  
 > **Goal:** describe the *shape* of the Zig kernel — what it does, what guarantees it provides, and what it expects from your code — without descending into implementation minutiae.  
-> **Companion documents:** `api_reference.md` for exact API signatures, `behavior_programming_guide.md` for idioms, and §17 below for the PSL language reference.
+> **Companion documents:** §17 included below for the PSL language reference. §18 for author's development notes pulled from conversations.
 
 ---
 
